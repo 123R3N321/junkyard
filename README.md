@@ -1,3 +1,6 @@
+## To recrutor:
+This is just an archive of a ton of information
+### plz do not use this to judge my work standard
 use a seperate terminal for println()debug
 run 
 ```bash
